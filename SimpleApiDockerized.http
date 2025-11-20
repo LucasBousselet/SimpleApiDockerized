@@ -1,0 +1,6 @@
+@SimpleApiDockerized_HostAddress = http://localhost:5222
+
+GET {{SimpleApiDockerized_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
