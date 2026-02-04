@@ -1,3 +1,5 @@
+# This Dockerfile is used to run the app locally. 
+# It works off the source code, builds + runs it in a container. (to run it, you might need to rename it Dockerfile)
 # syntax=docker/dockerfile:1
 
 # Comments are provided throughout this file to help you get started.
